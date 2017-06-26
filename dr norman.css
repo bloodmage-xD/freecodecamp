@@ -1,0 +1,42 @@
+#subs{
+  text-align : center;
+  font-size : 400%;
+}
+#main{
+  background-color:#DDDDDD;
+  width : 50%;
+  min-width: 100px;
+  margin : auto;
+  padding-left:100px;
+  border-radius : 20px;
+  
+}
+#secondary{
+  text-align:center;
+  font-size : 200%;
+  padding-bottom : 20px;
+  margin-top :-50px;
+}
+#image{
+  margin:auto;
+  padding: 3px 3px 3px 3px;
+}
+#image-holder {
+  background-color: #aaanvg;
+  border-radius: 5px;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  width: 90%;
+  margin: auto;
+  left: 1000px;
+}
+#body{
+  background-color:white;
+  width:70%;
+  min-width:500px;
+  margin:auto;
+  border-radius : 10px;
+  padding : 20px;
+}
