@@ -1,0 +1,62 @@
+
+#container-fluid{
+  display:inline-block;
+  margin-right:2em;
+  background-color:black;
+}
+
+.navbar-right{
+  background-color:blue;
+  display:inline-block;
+  text-align:right;
+  float:right;
+}
+.nav{
+  display:inline-block;
+}
+#beg{
+  background-color:gray;
+  width:100px;
+}
+.intro{
+  background-color:gray;
+}
+img{
+  float:right;
+  display:block;
+  margin-top:-450px;
+  margin-right:600px;
+}
+.pageone{
+  background:url("https://images.unsplash.com/photo-1491466424936-e304919aada7?dpr=1&auto=format&fit=crop&w=1080&h=721&q=80&cs=tinysrgb&crop=&bg=");
+  background-size:cover;
+  height:800px;
+  margin-top: -5%;
+}
+.nav-pills{
+  opacity : .7;
+  background-color:black;
+  font-size:1.7em;
+}
+h1{
+  padding:0;
+  
+}
+.block{
+  background-color:black;
+  opacity:.6; 
+}
+.pagetwo{
+   background:url("https://images.unsplash.com/photo-1495100793874-7f94aecae1fb?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;s=767899e30131caf3f6d6f79c7b7c56cb");
+  background-size:cover;
+  height : 800px;
+  margin-top:-5;
+}
+p{
+  font-size:2.0em;
+  color:white;
+  padding
+}
+img{
+  margin: 0 0 10% 10%;
+}
